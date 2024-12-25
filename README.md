@@ -1,4 +1,4 @@
-# STM32H7_OV7670 - In progress...
+# STM32H7_OV7670
 Solution for single-shot imagery capture with OV7670 camera. Data are being processed by NUCLEO-H7A3ZI-Q microcontoller board. Library was created and tested in STM32CubeIDE environment using DCMI and DMA technologies. This approach enables user to obtain color (RGB565) and black-and-white (from YUV composition) images. 
 
 >[!NOTE]
