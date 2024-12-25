@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kusak"
+  given-names: "Jan"
+title: "STM32H7_OV7670"
+version: 1.0
+date-released: 25-12-2024
+url: "https://github.com/jenosek/STM32H7_OV7670"
