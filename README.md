@@ -61,7 +61,7 @@ Then cameras's registers are set in function `camera_init(DCMI_HandleTypeDef*, I
 Once button is pressed, single image is being stored in memory via DMA. How to access and extract saved memory content is described on webpage[^3]. 
 
 ## Acknowledgment
-This project wouldn't be possible without help of additional sources[^4][^5][^6].
+This project wouldn't be possible without help of additional sources[^4][^5][^6][^7].
 
 # Sources:
 [^1]: User manual: UM2408 STM32H7 Nucleo-144 boards (MB1363). Online. V(5.0). 2021. Available from: https://www.st.com/resource/en/user_manual/um2408-stm32h7-nucleo144-boards-mb1363-stmicroelectronics.pdf.
@@ -70,3 +70,4 @@ This project wouldn't be possible without help of additional sources[^4][^5][^6]
 [^4]: Introduction to digital camera interface (DCMI) for STM32 MCUs: Application note - AN5020. Online. 2017. Available from: https://www.st.com/resource/en/application_note/an5020-digital-camera-interface-dcmi-on-stm32-mcus-stmicroelectronics.pdf.
 [^5]: APARICIO, Jorge. Hacking the OV7670 camera module (SCCB cheat sheet inside): An in-depth look of the OV7670 camera module. Online. 2012. Available from: http://embeddedprogrammer.blogspot.com/2012/07/hacking-ov7670-camera-module-sccb-cheat.html.
 [^6]: IWATAKE2222. DigitalCamera_STM32. GitHub repository. 2017. Available from: https://github.com/iwatake2222/DigitalCamera_STM32.git.
+[^7]: ELECTRICAL ENGINEERING STACK EXCHANGE. \textit{Jan's response to "Black bar and red/green swap in OV7670 image" discussion post}. Online. 2022. Available from: \url{https://electronics.stackexchange.com/q/608369}. [cit. 2024-12-27].
